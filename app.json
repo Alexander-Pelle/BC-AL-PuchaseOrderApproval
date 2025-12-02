@@ -1,0 +1,32 @@
+{
+  "id": "1846bd81-da99-45b2-9d55-bbfb56ae5ecc",
+  "name": "Purchase Order Approval Flow",
+  "publisher": "Bjarki Ellertsson",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "27.0.0.0",
+  "application": "27.0.0.0",
+  "idRanges": [
+      {
+          "from": 50200,
+          "to": 50249
+      }
+  ],
+  "resourceExposurePolicy": {
+      "allowDebugging": true,
+      "allowDownloadingSource": true,
+      "includeSourceInSymbolFile": true
+  },
+  "runtime": "14.0",
+  "features": [
+      "NoImplicitWith"
+  ]
+}

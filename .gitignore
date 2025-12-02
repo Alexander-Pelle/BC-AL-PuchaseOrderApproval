@@ -1,0 +1,43 @@
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+.vscode/*
+!.vscode/launch.json
+!.vscode/extensions.json
+
+.history/
+.vscode-test/
+
+node_modules/
+npm-debug.log*
+yarn.lock
+package-lock.json
+
+
+# --- AL / Business Central specific ---
+
+.alpackages/
+*.app
+
+.snapshots/
+
+
+bin/
+obj/
+
+
+
+*.log
+
+
+coverage/
+testoutput/
+
+.env
+.env.local
+.env.*
